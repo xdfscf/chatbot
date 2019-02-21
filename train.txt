@@ -1,0 +1,116 @@
+1.what is your name?\My name is Mike. /
+2.how old are you?\I'm seven years old. /
+3.where are you from?\I'm from hubei, china./
+4.where do you live?\I live in wuhan. /
+5.when is your birthday?\My birthday is on august, 10th. /
+6.where do you go to school?\I study in the No.1 Primary School. /
+7.what is your father?\My father is a doctor. /
+8.what is your mother is name?\My mother's name is Lily.  /
+9.how many children are there in your family?\I'm the only child in my family. /
+10.do you love your parents?\Yes, I love my parents very much./
+11.do you live with your parents?\Yes, I live with my parents. /
+12.do you have any brothers or sisters?\  
+No, I don't have any brothers or sisters, but I have a few cousins. /
+13.where is your hometown?\My hometown is in Shanghai. /
+14.how many English classes do you have a week?\we have 5 English classes a week. /
+15.do you like wuhan?\Yes, I like wuhan very much. /
+16.how do you go to school every day?\I walk to school every day. /
+17.which grade are you in?\I'm in Grade Four. /
+18.which class are you in?\I'm in class 1. /
+19.when do you get up in the morning?\I get up at 6:30 in the morning. /
+20.what do you do in the morning?\I get up, wash my face, have breakfast and go to school. /
+21.what do you do at school?\we have lessons, draw pictures and sing songs at school./
+22.what do you do after school?\after school, I do my homework, play with my friends and go home./
+23.do you like playing computer games?\Yes, I do. Playing computer games is my hobby. /
+24.have you got computers at your home?\Yes, we do. we have three computers at my home./
+25.how many students are there in your class?\There are thirty.  twenty are boys and ten are girls. /
+26.do you like your teachers?\Yes,we do.  we love our teachers. They are very good to us. /
+27.which is your favorite subject?\English is my favorite subject. /
+28.are you good at chinese?\No, I am not very good at chinese. /
+29.what colour do you like?\I like green. It is my favorite color./
+30.what is your favorite fruit?\ 
+I like watermelon very much.watermelon is my favorite fruit. /
+31.what food do you like?\I like fried chicken very much. /
+32.which is your favorite sport?\I like playing football. /
+33.would you like playing basketball with me now?\  
+I'd  love to, but I have to do my homework now. how about tomorrow afternoon?/
+34.what is the date today?\Today is November 21st. /
+35.what day is it today?\ Today is Saturday. /
+36.what day was it yesterday?\It was wednesday yesterday. /
+37.is today Sunday?\No, today is Monday. /
+38.what time is it?\It is half past five now. /
+39.what is the time now?\It is a quarter to six. /
+40.can you tell me the time ?\ 
+Sorry, I can't. I don't have a watch myself. /
+41.what is the weather like today?\It is sunny today. /
+42.how do you like the weather in wuhan?\ 
+I don't like the weather in wuhan. It is hot in summer and cold in winter. /
+43.what will the weather be like tomorrow?\    I think it will rain tomorrow. /
+44.beautiful day, isn't it?\Yes, it is really a beautiful day. /
+45.what do we have for dinner today?\ 
+we have chicken, fish and some vegetables for lunch today.. /
+46.are you hungry now?\No, I'm not very hungry. /
+47.would you like some rice or noodles?\Rice, please. I don't like noodles /
+48.how do you like the food?\ 
+I think the food here is very wonderful. /
+49.would you like to drink some wine or beer?\ 
+Some beer , please. /
+50.how are you feeling today?\I'm feeling fine. /
+51. what is wrong with your eyes?\  I feel there is something getting into my eyes. /
+52.when are you going to see the doctor?\ 
+I'm going to see the doctor when my mother comes home. /
+53.how long have you been ill?\I've been ill for three days. /
+54.what is your telephone number?\   It is 84285000. You can call me anytime./ 
+55.where does he live?\he lives in Tokyo. /
+56.is she your best friend?\   No, she is not. My best friend is Jenny. /
+57.can you speak Japanese?\ 
+No, I can't. Japanese is too difficult for me. But I can speak a little English. /
+58.can you tell me the way to the hospital?\ 
+Sorry, I am a stranger here.  I don't know the way to the hospital. /
+59.do you want to go shopping with me tomorrow?\ 
+I'd love to, but I have to work. how about shopping together some other day?/
+60.what are you going to do when you grow up?\ I want to be a teacher when I grow up. /
+61.what is in your bedroom?\There is a bed, a table, two chairs in my bedroom./
+62.what do you do in the living room?\   I watch TV in the living room. /
+63.whose watch is it?\   I think it is Mike is watch. he was looking for it just now. /
+64.how did he go to hong Kong?\   he went to hK by air. /
+65.how do you like your new job?\   I like my new job very much. /
+66.what are they doing now?\   They are playing a game together. /
+67.where did you lose your ticket?\   I think I lost my ticket on the bus. /
+68.how much are the shoes?\    They are $fifteen. do you like my new shoes?/
+69.what are your parents going to give as your birthday present?\ 
+I don't know. I think my mother will give a bike and my father may give a new watch as my birthday present for this year/. 
+70.how many days are there in a week?\  There are 7 days in a week. /
+71.how many seasons are there in a year?\ There are 4 seasons in a year. /
+72.which is your favorite season?\ I like spring most, with flowers booming everywhere. /
+73.who is absent today?\  Tom is absent today. /
+74.what month is it now?\ Now, it is May. /
+75.how are you?\ Fine, thank you. and you?/
+76.how do you do?\  how do you do! /
+77.where do you study English?\ I study English in a training center. /
+78.how long have you been in this city?\   
+I have been in this city since I was a little girl. /
+79.why did you leave so early yesterday?\   
+Because my son was sick, so I had to leave early yesterday. /
+80.how many times have you been to Beijing?\ I have been to Beijing 3 times. /
+81.how did you come here?\  I came here by taxi. /
+82.whom are you waiting for?\  I am waiting for my husband. /
+83.which is your sister?\   The girl in red is my sister. /
+84.what size do you wear?\  I wear size twelve. /
+85.how tall is that boy?\  I think he is 190cm tall. /
+86.what is the English for ¡°¿¨³µ¡°£¿ It is truck, t-r-u-c-k. Got it?/  
+87.how do you like the film?\  I like the film very much. /
+88.how wide is the river?\ The rive is 2 meters wide. /
+89.are there any books on the desk?\  Yes, there are 3 books on the desk. /
+90.when does she wash her clothes?\  She washes her clothes every Sunday. /
+91.how much did your sister pay for that dress?\   My sister paid 200 yuan for that dress. /
+92.why don't you like winter?\ I don't like winter because it is too cold. /
+93.how long has he stayed in america?\  he has stayed in america for 5 years. /
+94.which room did he live in?\  he lived in Room 121. /
+95.how many foreigners will visit our school next week?\    10 foreigners will visit our school next week. /
+96.what do the Smiths all enjoy doing?\  The Smiths all enjoy watching ball games. /
+97.which pen is yours?\  The pen on the table is mine. /
+98.how do you like the story?\ I like the story very much. /
+99.how is your mother?\  My mother is fine. Thank you. /
+100.nice to meet you.\   Nice to meet you ,too./
+what is the weather today?\It's rainy outside/
